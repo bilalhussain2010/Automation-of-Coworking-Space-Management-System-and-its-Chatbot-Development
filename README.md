@@ -1,2 +1,10 @@
 # Automation-of-Coworking-Space-Management-System-and-its-Chatbot-Development
-This is automation of a coworking space management system implemented  on   coworking space website (own website used for demo) including  automated client enquiry handling with chapter-wise reports and a RAG-based AI chatbot for instant support
+This project is focused on automating  booking system for a coworking space system and its chatbot development, inspired and developed while working at Innovista Coworking Space. The goal was to remove repetitive manual tasks, improve operational efficiency, and enhance the experience of clients interacting with the coworking space. 
+The project is divided into three phases. The first phase automates the client enquiry process by automating contact us form available on innovista Wordpress website. Form has been replicated on my own WordPress website. When a user submits the enquiry form, the system automatically captures all form fields, segregates the data by the selected chapter, and stores it in an Excel workbook containing eight chapter-specific sheets
+A daily report is generated every morning at 10 AM, saved in the administrator’s drafts folder, and the admin receives an automated email notification. This ensures accuracy, transparency, and the complete elimination of manual sorting
+The second phase involves the development of a Retrieval-Augmented Generation (RAG) chatbot for the coworking space website. The chatbot uses a curated knowledge base to provide instant, accurate responses regarding pricing, policies, facilities, and operational details, significantly improving customer support and reducing workload on staff. 
+The third phase, currently upcoming, will introduce an automated booking management system that handles workspace availability, reservations, and client confirmations in a fully automated workflow. Together, these three phases aim to create a streamlined, intelligent, and scalable coworking space management system.
+Demonstration video is uploaded in google drive for which link is https://drive.google.com/file/d/11ehHDXO4jEVSlA_dtw38CMvTXt8OUZDx/view?usp=sharing
+https://drive.google.com/file/d/11ehHDXO4jEVSlA_dtw38CMvTXt8OUZDx/view?usp=sharing
+
+Video size is 140 MB which github is not allowing to upload due its size so google drive link is shared. 
